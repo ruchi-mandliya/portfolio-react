@@ -25,10 +25,10 @@ const Header = () => {
           className={`flexCenter ${css.menu}`}
         >
           <li>
-            <a href="">Services</a>
+            <a href="">About me</a>
           </li>
           <li>
-            <a href="">Experience</a>
+            <a href="">Skills</a>
           </li>
           <li>
             <a href="">Portfolio</a>
@@ -37,7 +37,7 @@ const Header = () => {
             <a href="">Testimonials</a>
           </li>
           <li className={`flexCenter ${css.phone}`}>
-            <p>+123 456 789</p>
+            <p>7049835319</p>
             <BiPhoneCall size={"40px"} />
           </li>
         </ul>
